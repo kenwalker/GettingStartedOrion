@@ -94,3 +94,5 @@ var k
 You can also either comment/uncomment or indent/unindent whole selections
 
 There's also word wrap if you have really long lines and want to see the whole content.
+
+You can also hide the Outline view and the header and footer portions of the page if you want to purely focus on editing text.
